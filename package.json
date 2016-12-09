@@ -1,0 +1,37 @@
+{
+  "name": "console-dialog",
+  "description": "build input forms, menus & screens in the console",
+  "homepage": "https://github.com/ffalt/console-dialog",
+  "keywords": [
+    "console",
+    "menu",
+    "dialog"
+  ],
+  "bugs": {
+    "url": "https://github.com/ffalt/console-dialog/issues"
+  },
+  "version": "0.0.1",
+  "author": {
+    "name": "ffalt"
+  },
+  "contributors": [],
+  "main": "./lib",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ffalt/console-dialog"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "extend": "^3.0.0",
+    "keypress": "^0.2.1",
+    "readline": "^1.3.0"
+  },
+  "engines": {
+    "node": ">= 6.8.1"
+  },
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "eslint": "^3.11.1"
+  }
+}
