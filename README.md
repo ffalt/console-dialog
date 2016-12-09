@@ -37,7 +37,7 @@ Example Output
 Type Hotkey or select & enter
 ```
 
-Example Output (see examples/example-editor.js)
+Example Output (see examples/example-banner-fonts.js)
 
 ```
 ┌───────────────────────────────────┐
