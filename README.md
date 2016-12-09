@@ -80,7 +80,6 @@ A simple label
 | style | <code>array</code> | e.g. ['bold','red'] |
 
 ```javascript
-
 new dialog.Components.ScreenTextLine('Hello World', ['bold'])
 ```
 
@@ -100,7 +99,7 @@ new dialog.Components.ScreenTextLine('WOW', 'small')
 ```
 
 
-#### ScreenEdit
+### ScreenEdit
 A text editor with optional label
 
 ##### new dialog.Components.ScreenEdit(options)
@@ -109,7 +108,7 @@ A text editor with optional label
 | --- | --- | --- |
 | options | <code>object</code> | Editor Option |
 
-#### ScreenEdits
+### ScreenEdits
 A list of text editors with optional label
 
 ##### new dialog.Components.ScreenEdits(options)
@@ -141,7 +140,7 @@ new dialog.Components.ScreenEdits([
 ])
 ```
 
-#### ScreenToolbar
+### ScreenToolbar
 A horizontal toolbar with selectable items
 
 ##### new dialog.Components.ScreenToolbar(items)
@@ -177,7 +176,7 @@ new dialog.Components.ScreenToolbar([
 ])
 ```
 
-#### ScreenTable
+### ScreenTable
 A static table
 
 ##### new dialog.Components.ScreenTable(items)
@@ -245,7 +244,7 @@ new dialog.Components.ScreenTable([
 ])
 ```
 
-#### ScreenTableItems
+### ScreenTableItems
 A table with selectable rows
 
 ##### new dialog.Components.ScreenTableItems(items, options)
@@ -322,7 +321,7 @@ new dialog.Components.ScreenTableItems([
 ```
 
 
-#### ScreenTableItems
+### ScreenTableItems
 A toolbar for ScreenTableItems with info & page up + page down buttons
 
 ##### new dialog.Components.ScreenTableItems(items, options)
