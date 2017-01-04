@@ -102,7 +102,7 @@ new dialog.Components.ScreenTextLine('WOW', 'small')
 ### ScreenEdit
 A text editor with optional label
 
-##### new dialog.Components.ScreenEdit(options)
+##### new dialog.Components.ScreenEditor(options)
 
 | Param | Type | Description |
 | --- | --- | --- |
